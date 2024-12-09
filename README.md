@@ -1,4 +1,4 @@
-# Weekly_Task 1 & 2
+# Practiced Flexbox & Media Queries in Image Gallery & Subscription Task! 🎉
 
 # Image Gallery & Subscription
 
